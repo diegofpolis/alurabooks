@@ -6,7 +6,7 @@
 * HTML
 * CSS
 
-## Responsivo nas resoluções:
+## Site responsivo nas resoluções:
 * 360px
 * 1024px
 * 1728px
